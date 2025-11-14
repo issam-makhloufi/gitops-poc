@@ -38,7 +38,7 @@ data:
     <html>
     <head><title>Hello from Apache in Kubernetes</title></head>
     <body>
-      <h1>Welcome to Apache HTTP Server running in Kubernetes!</h1>
+      <h1>Welcome to Apache HTTP Server running in Kubernetes, Port 80 !</h1>
     </body>
     </html>
 ---

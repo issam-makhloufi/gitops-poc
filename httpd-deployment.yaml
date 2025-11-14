@@ -46,7 +46,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: httpd-service
-  namespace: demo-gitops
+  namespace: testapp
 spec:
   type: LoadBalancer
   selector:
